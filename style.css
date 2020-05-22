@@ -1,0 +1,283 @@
+body {
+	background: url(bg-pink.jpg) no-repeat;
+	background-size: 100% 100%;
+
+}
+@font-face {
+	font-family: bp1;
+	src: url(bp1.otf);
+}
+
+/* HOVERы*/
+.box-link {
+	background: black;
+	transition: 1
+}
+.box-link:hover {
+	background: #91195b;
+}
+.box-jisoo {
+	background-image: url(Jisoo1.jpg);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;transition: 1s ease;
+}
+.box-jisoo:hover {
+	background-image: url(Jisoo2.png);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;
+}
+.box-jennie {
+	background-image: url(Jennie1.jpg);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;transition: 1s ease;
+}
+.box-jennie:hover {
+	background-image: url(Jennie2.png);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;
+}
+.box-rose {
+	background-image: url(Rose1.jpg);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;transition: 1s ease;
+}
+.box-rose:hover {
+	background-image: url(Rose2.jpg);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;
+}
+.box-lisa {
+	background-image: url(Lisa1.jpg);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;transition: 1s ease;
+}
+.box-lisa:hover {
+	background-image: url(Lisa2.jpg);background-size: 100% 100%;margin-left: 42px;width: 155px;height: 200px;
+}
+
+.box-dalgom {
+	background-image: url(dalgom1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-dalgom:hover {
+	background-image: url(dalgom2.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}	
+.box-kuma {
+	background-image: url(kuma1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-kuma:hover {
+	background-image: url(kuma2.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}	
+.box-kai {
+	background-image: url(kai1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-kai:hover {
+	background-image: url(kai2.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}	
+.box-joohwangie {
+	background-image: url(joohwangie1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-joohwangie:hover {
+	background-image: url(joohwangie2.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}	
+.box-leo {
+	background-image: url(leo1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-leo:hover {
+	background-image: url(leo2.png);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}
+.box-luca {
+	background-image: url(luca1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-luca:hover {
+	background-image: url(luca2.png);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}
+.box-lilly {
+	background-image: url(lilly1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-lilly:hover {
+	background-image: url(lilly2.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}
+.box-louis {
+	background-image: url(louis1.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;transition: 1s ease;
+}	
+.box-louis:hover {
+	background-image: url(louis2.jpg);background-size: 100% 100%;width: 150px;height: 150px;margin-left: 25px;
+}
+
+.d-flex {
+	display: flex;
+}
+/* ФОН */
+.bg-dangerous {
+	background: red;
+}
+.bg-dark {
+	background: black;
+}
+.bg-pink-dark {
+	background: #f7beed;
+}
+.bg-pink {
+	background: pink;
+}
+.bg-bp {
+	background-image: url(bg-1.jpg);
+	background-size: 100% 100%;
+	height: 350px;
+	
+}
+/* ШИРИНА */
+.width-450 {
+	width: 450px;
+}
+.width-600 {
+	width: 600px;
+}
+.width-1048 {
+	width: 1048px;
+}
+.width-800 {
+	width: 800px;
+}
+.width-300 {
+	width: 300px;
+}
+.width-150 {
+	width: 150px;
+}
+.width-120 {
+	width: 120px;
+}
+.width-200 {
+	width: 200px;
+}
+.width-250 {
+	width: 250px;
+}
+.width-1264 {
+	width: 1264px;
+}
+.width-1000 {
+	width: 1000px;
+}
+.width-925 {
+	width: 925px;
+}
+.width-864 {
+	width: 864px;
+}
+/* ОТСТУПЫ */
+.mx-auto {
+	margin-left: auto;
+	margin-right: auto;
+}
+.mx-10px {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.mt-1 {
+	margin-top: 16px;
+}
+.mt-2 {
+	margin-top: 32px;
+}
+.mt-3 {
+	margin-top: 64px;
+}
+.ml-1 {
+	margin-left: 16px;
+}
+.ml-2 {
+	margin-left: 32px;
+}
+.ml-3 {
+	margin-left: 64px;
+}
+.ml-25px {
+	margin-left: 25px;
+}
+.ml-100px {
+	margin-left: 100px;
+}
+.mt-100px {
+	margin-top: 100px;
+}
+.mb-100px {
+	margin-bottom: 100px;
+}
+
+/* Тексты */
+.text-bp-light {
+	color: #91195b;
+}
+.text-bp-dark {
+	color: #422535;
+}
+.text-light {
+	color: white;
+}
+.text-center {
+	text-align: center;
+}
+.text-left {
+	text-align: left;
+}
+.text-justify {
+	text-align: justify;
+}
+.h1{
+    color: #fff;
+}
+.fs-15 {
+	font-size: 15px;
+}
+.fs-13 {
+	font-size: 13px;
+}
+.fw-bold {
+	font-weight: bold;
+}
+.fw-light {
+	font-weight: lighter;
+}
+.ff-bp {
+	font-family: bp1;
+}
+.ff-arial {
+	font-family: Arial;
+}
+
+/* Фото */
+.img-queen {
+	margin-left: 50px;
+	width: 150px;
+	height: 200px;
+}
+.img-logo {
+	height: 55px;
+}
+.img-news {
+	width: 150px;
+	height: 100px;
+}
+.img-sale {
+	width: 150px;
+	height: 150px;
+}
+
+.border-pink {
+	border: solid pink 5px;
+	border-radius: 8px;
+}
+.border-dark {
+	border: solid #422535 5px;
+	border-radius: 8px;
+}
+.border-songs {
+	border-bottom: solid pink 5px;
+}
+.border-news {
+	border-bottom: solid #cf257a 5px;
+}
+.audio {
+	height: 35px;
+	width: 400px;
+}
+.video {
+	width: 250px;
+}
+.mvideo {
+	width: 300px;
+}
+.btn {
+	border: solid #91195b 1px;
+	border-radius: 8px;
+	height: 35px;
+	width: 80px;
+}
